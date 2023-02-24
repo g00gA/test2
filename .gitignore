@@ -1,0 +1,7 @@
+# Build directory
+build
+
+# CLion temporary files & folders
+*.idea*
+.idea/
+cmake-build-debug/
